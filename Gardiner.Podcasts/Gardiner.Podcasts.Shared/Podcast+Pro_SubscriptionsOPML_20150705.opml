@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+  <head>
+    <title />
+  </head>
+  <body>
+    <outline text=".NET Rocks!" type="rss" xmlUrl="http://www.pwop.com/feed.aspx?show=dotnetrocks&amp;filetype=master" htmlUrl="http://www.dotnetrocks.com" imageUrl="http://www.pwop.com/itunes_dnr.jpg" author="Carl Franklin" />
+    <outline text="1 Year Daily Audio Bible" type="rss" xmlUrl="http://feeds.feedburner.com/dailyaudiobible" htmlUrl="http://feeds.feedburner.com/dailyaudiobible" imageUrl="http://www.dailyaudiobiblemedia.com/resources/graphics/DABLogo.jpg" author="Brian Hardin" />
+    <outline text="Dr Karl on triplej" type="rss" xmlUrl="http://www.abc.net.au/science/k2/podcast/drk_rss.xml" htmlUrl="http://www.abc.net.au/science/drkarl/scienceontriplej/" imageUrl="http://www.abc.net.au/science/podcast/drkarl.jpg" author="ABC Science" />
+    <outline text="Hanselminutes" type="rss" xmlUrl="http://feeds.feedburner.com/Hanselminutes" htmlUrl="http://www.hanselminutes.com" imageUrl="http://www.pwop.com/itunes_hanselminutes.jpg" author="Scott Hanselman" />
+    <outline text="Herding Code" type="rss" xmlUrl="http://feeds.feedburner.com/herdingcode" htmlUrl="http://herdingcode.com" imageUrl="http://herdingcode.com/herdingCode.png" author="Herding Code" />
+    <outline text="RunAs Radio" type="rss" xmlUrl="http://feeds.feedburner.com/RunaAsRadioWma" htmlUrl="http://www.runasradio.com" imageUrl="http://www.pwop.com/itunes_runasradio.jpg" author="Richard Campbell and Greg Hughes" />
+    <outline text="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://www.se-radio.net/rss" htmlUrl="http://www.se-radio.net" imageUrl="http://media.computer.org/sponsored/podcast/se-radio/se-radio-logo-1400x1475.jpg" author="SE-Radio Team" />
+    <outline text="SQL Down Under" type="rss" xmlUrl="http://www.sqldownunder.com/SQLDownUnderMP3Feed.xml" htmlUrl="http://www.sqldownunder.com" imageUrl="http://www.sqldownunder.com/SQLDownUnderSquareLogo2.jpg" author="Dr Greg Low" />
+    <outline text="The Stack Exchange Podcast" type="rss" xmlUrl="http://blog.stackoverflow.com/?feed=podcast" htmlUrl="http://blog.stackoverflow.com" imageUrl="http://blog.stackoverflow.com/wp-content/uploads/se-podcast-logo-1.png" author="Stack Exchange" />
+    <outline text="Why I Really Like This Book" type="rss" xmlUrl="http://www.reallylikethisbook.com/rss" htmlUrl="http://www.reallylikethisbook.com" imageUrl="http://static.libsyn.com/p/assets/4/0/8/f/408ff6e0f79f5d7f/KM_Favicon_1400X1400.jpg" author="Kate Macdonald" />
+    <outline text="Windows Weekly (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/ww.xml" htmlUrl="http://twit.tv/ww" imageUrl="http://twit.cachefly.net/coverart/ww/ww1400audio.jpg" author="TWiT" />
+    <outline text="Visual Studio Time Savers  - Channel 9" type="rss" xmlUrl="http://channel9.msdn.com/Series/vstips/RSS" htmlUrl="https://channel9.msdn.com/Series/vstips" imageUrl="http://files.channel9.msdn.com/thumbnail/d953c398-7d43-4dad-8ca0-809910491d19.png" author="Microsoft" />
+  </body>
+</opml>
